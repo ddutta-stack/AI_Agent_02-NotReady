@@ -4,3 +4,5 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By 
 driver = webdriver.Chrome()
+driver.get("https://www.example.com")
+# Define the agent's response
