@@ -6,5 +6,8 @@ from selenium.webdriver.common.by import By
 driver = webdriver.Chrome()
 driver.get("https://www.example.com")
 driver.implicitly_wait(10)
+driver.close()
+driver.quit()
+
 # Define the agent's response
 
