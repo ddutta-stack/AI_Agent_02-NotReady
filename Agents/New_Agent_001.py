@@ -4,7 +4,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By 
 driver = webdriver.Chrome()
-driver.get("https://www.example.com")
+driver.get("https://www.google.com")
 driver.implicitly_wait(10)
 driver.close()
 driver.quit()
