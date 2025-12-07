@@ -7,5 +7,5 @@ git commit
 then
 git push
 Then?
-Then we need to check for CD process..
+Then we need to check for CI/CD process..
 ##
